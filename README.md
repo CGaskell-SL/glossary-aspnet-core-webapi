@@ -16,5 +16,5 @@ The following article describes the general implementation details: [Permission-
 
 ## Requirements:
 
-- [.NET SDK ver. 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) installed on your machine
+- [.NET SDK ver. 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) installed on your machine
 
